@@ -9,8 +9,3 @@ if (salario <= porcent):
         print('Empréstimo pode ser CONCEDIDO')
 else:
         print('Empréstimo foi NEGADO')
-
-
-
-
-
